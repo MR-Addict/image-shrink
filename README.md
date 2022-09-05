@@ -4,12 +4,12 @@
 
 Features:
 
-- Resize all images in paticular folder
-- Custom image max width and max size
+- Resize all images in specific folder
+- Custom image maximum width and maximum size
 
 Attention
 
-- Do not put upper case image type in `img_types` variable, such as `.PNG,.JPG`
+- Do not put upper case image type in `img_types` variable, such as `.PNG`, `.JPG`
 - After execute code, all your images will be `replaced` with resized images
 
 
